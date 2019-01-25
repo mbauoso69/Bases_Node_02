@@ -1,0 +1,18 @@
+
+
+npm i yargs --save
+
+npm install colors --save
+
+----------------- git ----------------------
+
+1. Nos posicionamos en la carpeta de nuestro proyecto
+2. Ejecutamos el comando
+    git init
+3. En VSC creamos el archivo llamado .gitignore
+4. Editamos el archivo del punto anterior e incluimos los archivos y carpetas que no deseamos respaldar en git
+5. Con el comando git status lo que observamos son todos aquellos archivos y carpetas que son candidatos a subir a git
+6. Para crear "una fotografía" de mi proyecto o snapshot en git (respaldo) escribamos el siguiente comando 
+    git add
+
+
